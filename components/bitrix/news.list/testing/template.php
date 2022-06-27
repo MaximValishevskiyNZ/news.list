@@ -14,7 +14,7 @@ $this->setFrameMode(true);
 
 ?>
 
-<link href="styles.css" type="text/css" rel="stylesheet" />
+
 
 <div id="barba-wrapper">
    <div class="article-list">
